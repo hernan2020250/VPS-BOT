@@ -1,3 +1,7 @@
 {
-	"Quieres una session?": "Hablame +51 995 386 439"
+	"clientID": "LlGWejPwJAkQudksZ5FWww==",
+	"serverToken": "1@DwRlS2zQdhmr5/FMJJ9pWbRIzl9Fj9AOTwLxYu7chswP1eESKXQSzUPovNEm8ahwQQroJ7VaM+TfpQ==",
+	"clientToken": "BqwRjsyKc9mjK9CE9o8d5O7y+SgLtf2ohxJTH0XigGw=",
+	"encKey": "gt8LV2Ufi5kjWgbPqThy9GtakXE6QsKbv/gpjsWCQAo=",
+	"macKey": "TXy/ZnhJxAXeNbc3EO++CQRKlLZChFONYe8xV2GWrL8="
 }
