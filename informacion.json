@@ -1,15 +1,15 @@
 {
 	"prefijo": ".",
-	"BotControlador": "51948258899@s.whatsapp.net",
-        "NumeroBot": "51995386439",
-	"CoCreador": "Matt_M",
-	"VCardX": "+51995386439",
-	"VCardY": "+51 995 386 439",
-	"MyPais": "51",
-	"NombreBot": "NK-BOT",
+	"BotControlador": "5493888664085@s.whatsapp.net",
+        "NumeroBot": "5493888664085",
+	"CoCreador": "CENTER-VPS",
+	"VCardX": "+5493888664085",
+	"VCardY": "+54 9388 664 085",
+	"MyPais": "54",
+	"NombreBot": "CLAROCLOUD-BOT",
 	"LimiteEnGrupos": "2",
 	"LimiteComandos": "666999",
-	"TusRedesSociales": "~>[TuCanalDeYoutube]\n~>[PaginaDeFacebook]\n~>[TusOtrasRedesSociales...]",
+	"TusRedesSociales": "~>[https://youtube.com/channel/UCPPfwv0eir6zbs4yyK-TwSw]\n~>[https://m.facebook.com/enrique088/]\n~>[TusOtrasRedesSociales...]",
 	"ApiZeks": "TeslaZeks",
 	"ApiLoL": "BudaApi"
 }
